@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="src">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/src/lib" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../../../数据库/commons-dbutils-1.7-bin/commons-dbutils-1.7/commons-dbutils-1.7.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../../../../数据库/ojdbc14jar" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/../../../../../../../../数据库/commons-dbutils-1.7-bin/commons-dbutils-1.7/apidocs" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/src" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/src/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../../../../../数据库/ojdbc14jar" recursive="false" />
+  </library>
+</component>
